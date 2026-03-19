@@ -13,7 +13,7 @@ import type {
   ModelWithSoftDeletes,
 } from '@adonisjs/lucid/types/model'
 
-import { Exception } from '@poppinss/utils'
+import { Exception } from '@adonisjs/core/exceptions'
 
 /**
  * Raises exception when model not with soft delete

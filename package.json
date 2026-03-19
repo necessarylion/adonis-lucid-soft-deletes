@@ -43,9 +43,11 @@
     "@japa/file-system": "^2.3.0",
     "@japa/runner": "^3.1.4",
     "@japa/snapshot": "^2.0.5",
+    "@poppinss/hooks": "^7.3.0",
     "@swc/core": "^1.6.7",
     "@types/lodash": "^4.17.6",
     "@types/luxon": "^3.4.2",
+    "@types/node": "^25.5.0",
     "adonis-lucid-filter": "^5.2.0",
     "c8": "^9.1.0",
     "copyfiles": "^2.4.1",
@@ -63,7 +65,7 @@
   },
   "peerDependencies": {
     "@adonisjs/core": "^6.2.3",
-    "@adonisjs/lucid": "^21.1.0"
+    "@adonisjs/lucid": "^22.1.1"
   },
   "author": "LookinGit",
   "license": "MIT",
